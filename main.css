@@ -1,0 +1,101 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: aqua;
+}
+.tem{
+    width: 1440px;
+height: 65px;
+background-color: white;
+
+}
+.tem1{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.tem2{
+    margin-top: -18px;
+    margin-left: 130px;
+}
+.tem3{
+    margin-top: -18px;
+    margin-left: 100px;
+}
+.tem4{
+    margin-top: -18px;
+    margin-left: 100px;
+}
+.tem5{
+    margin-top: -18px;
+    margin-left: 100px;
+
+}
+.tem6{
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.tem7{
+    margin-top: -52px;
+    margin-left: 230px;
+}
+.tem8{
+    margin-top: -18px;
+    margin-left: 140px;
+}
+.tem9{
+    margin-top: -19px;
+    margin-left: 100px;
+}
+
+.tem10{
+    margin-top:22px ;
+    margin-left: -1170px;
+}
+.tem11{
+    margin-top: 20px
+}
+.tem12{
+    margin-top: -504px;
+    margin-left: 730px;
+}
+.tem13{
+    margin-left: -730px;
+    margin-top: 10px;
+}
+.tem14{
+    margin-top: 10px;
+}
+.tem15{
+    margin-top: 10px;
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+
+}
+
+.tem16{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.tem17{
+    margin-left: 500px;
+    margin-top: -170px;
+}
+.tem18{
+    margin-left: 600px;
+    margin-top: -170px;
+}
+.tem19{
+
+    width: 1441px;
+    height: 200px;
+    background-color: white;
+    margin-top: -220px;
+}
+
